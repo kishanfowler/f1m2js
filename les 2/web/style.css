@@ -1,0 +1,38 @@
+body{
+    background-color: darkgray;
+}
+
+#koelkast{
+    background-color: grey;
+    gap: 20px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+section{
+    border: 2px solid white;
+    padding: 10px;
+    min-height: 200px;
+}
+
+h2{
+    margin: 0 0 10px 0;
+    margin-bottom: 0px;
+}
+
+.rood{
+    color: red;
+}
+
+.groen{
+    color: seagreen;
+}
+
+button{
+    padding: 10px 20px;
+    background-color:lightskyblue ;
+    color: navy;
+    font-size: 18px;
+    border: 2px solid black;
+    cursor: pointer;
+}
