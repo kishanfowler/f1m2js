@@ -1,0 +1,9 @@
+td{
+    border: solid 1px aquamarine;
+    width: 50px;
+    height: 20;
+}
+
+body{
+    border-collapse: collapse;
+}
